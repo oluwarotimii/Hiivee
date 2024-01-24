@@ -72,12 +72,12 @@ Usage
 Start the development server:
 
 bash
-Copy code
+
 npm run start
 or with Yarn:
 
 bash
-Copy code
+
 yarn start
 This will start both the React frontend and the Node.js backend.
 
