@@ -37,17 +37,17 @@ Make sure you have the following installed on your machine:
    ```bash
    git clone https://github.com/your-username/hiiveapi.git
    cd hiiveapi
-Save to grepper
+
 Install dependencies:
 
 
 npm install
 or with Yarn: 
 
-```bash
 
-yarn install
-Single Sign-On (SSO)
+
+  yarn install
+Single Sign-On (SSO):
 HiiveAPI uses GitHub for Single Sign-On. Follow these steps to set up GitHub authentication:
 
 Create a GitHub OAuth App:
