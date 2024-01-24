@@ -40,13 +40,12 @@ Make sure you have the following installed on your machine:
 Save to grepper
 Install dependencies:
 
-bash
-Copy code
-npm install
-or with Yarn:
 
-bash
-Copy code
+npm install
+or with Yarn: 
+
+```bash
+
 yarn install
 Single Sign-On (SSO)
 HiiveAPI uses GitHub for Single Sign-On. Follow these steps to set up GitHub authentication:
@@ -86,13 +85,6 @@ Open your browser and navigate to http://localhost:3000.
 
 Explore the HiiveAPI collaborative project platform!
 
-Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
-
-Fork the repository.
-Create a new branch: git checkout -b feature/your-feature.
-Commit your changes: git commit -m 'Add a new feature'.
-Push to the branch: git push origin feature/your-feature.
-Open a pull request.
+]\
 License
 This project is licensed under the ISC License.
